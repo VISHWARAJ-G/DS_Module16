@@ -24,8 +24,8 @@ To write a C function to insert the elements in an AVL Tree.
 ```c
 /*
 Program to insert the elements in an AVL Tree
-Developed by: 
-RegisterNumber:  
+Developed by: Vishwaraj G.
+RegisterNumber:  212223220125
 */
 
 #include <stdio.h>
